@@ -43,7 +43,7 @@ load_train = False
 
 mods=5
 
-filename= 'GenDataYOLO_prediction.h5'
+filename= 'SyntheticRFDataset.h5'
 
 h5f = h5py.File(filename, 'r')
 
